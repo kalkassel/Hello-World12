@@ -1,1 +1,2 @@
 This is just for practice.
+when you start doing some thing for git you need to commit.
